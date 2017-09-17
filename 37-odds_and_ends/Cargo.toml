@@ -1,0 +1,8 @@
+[package]
+name = "odds_and_ends"
+version = "0.1.0"
+authors = ["Sudaraka Wijesinghe <sudaraka@sudaraka.org>"]
+
+[dependencies]
+rand = "0.3.12"
+own_crate = { path = "../38-own_crate" }
